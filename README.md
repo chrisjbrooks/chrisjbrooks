@@ -45,7 +45,7 @@ I am a self-motivated Data Scientist with over 15 years of experience in data co
 
 *   **Education:** Engineering Doctorate (EngD) in the prediction and control of sound propagation in turbofan engine bypass ducts from the University of Southampton in collaboration with Rolls-Royce plc. First Class BEng in Acoustical Engineering.
 *   **Past Experience:** Postdoctoral Research Fellow developing advanced statistical models for aerospace design with Airbus and Rolls-Royce, and building IoT analytics for UK Olympic athletes. Independent Data Scientist consulting via Brooks Analytics Limited.
-*   **Awards:** Recipient of the 2023 Better Satellite World Award. Won the Global Mobile Award for 'Mobile in Emergency or Humanitarian Situations'. Part of the Performance Sport Engineering team awarded the Queen's Anniversary Prize for Higher and Further Education.
+*   **Awards:** Co-recipient of the [2023 Better Satellite World Award](https://www.sspi.org/mapping-invisible-populations-project-international-rescue-committee-irc-collaboration-flowminder). Won the [2016 Global Mobile Award](https://www.gsma.com/newsroom/press-release/gsma-announces-winners-of-the-2016-glomo-awards/) for 'Mobile in Emergency or Humanitarian Situations'. Part of the Performance Sport Engineering team awarded the [2011 Queen's Anniversary Prize for Higher and Further Education](https://www.southampton.ac.uk/news/2011/11/queens-anniversary-prize.page).
 
 ---
 
