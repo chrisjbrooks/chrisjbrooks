@@ -10,7 +10,7 @@ I am a self-motivated Data Scientist with over 15 years of experience in data co
 
 **DATA ANALYSIS | DATA ENGINEERING | DATA GOVERNANCE | DATA FOR SOCIAL GOOD**
 
-*   **Role:** Senior Data Analyst/Scientist and Lead Data Scientist at the Flowminder Foundation.
+*   **Role:** Lead Data Scientist at the Flowminder Foundation working on extracting insights from mobile phone data, survey & census data, and geospatial data.
 *   **Mission:** Undertaking high-quality, peer-reviewed humanitarian data science to improve public health and welfare in low- and middle-income countries around the globe.
 *   **Focus:** Developing scalable telecoms data pipelines, engaging with Mobile Network Operators as a principal technical liaison, and building Bayesian geostatistical and ML models.
 *   **Active Explorations:** Pattern-of-life analysis, anomaly detection, Bayesian optimisation, feature extraction for high-frequency multivariate time-series data, and distributed systems for analytics including MPP and Spark.
